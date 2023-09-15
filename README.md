@@ -63,7 +63,7 @@ https://img.shields.io/badge/2001640100210_2C-black?logo=hackerrank
 <a href="https://leetcode.com/rashi_2012/" target="_blank">
 <img src=https://img.shields.io/badge/leetcode-%23292929.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>   
- <a href="rashi.sngh2012@gmail.com" target="_blank">
+<!--  <a href="rashi.sngh2012@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/gmail-%2308090A.svg?&style=for-the-badge&logo=	gmail&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a> 
+</a>  -->
 </p> 

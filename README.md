@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, Git Gurus! <img src="https://media.tenor.com/images/dde00ef959f44dc5279786fc7f20fe5b/tenor.gif" width="30" >
 
 <!--
 **RashiS20/RashiS20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

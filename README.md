@@ -5,8 +5,8 @@
 </div>
 <br>
  
-[![codechef badge](https://img.shields.io/badge/rudrakshi99-30302f?style=flat&logo=codechef)](https://www.codechef.com/users/rs2012)
-[![hackerrank badge](https://img.shields.io/badge/sonirudrakshi99-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/2001640100210_2C)
+[![codechef badge](https://www.codechef.com/users/rs2012)](https://www.codechef.com/users/rs2012)
+[![hackerrank badge][(https://www.hackerrank.com/2001640100210_2C)](https://www.hackerrank.com/2001640100210_2C?hr_r=1)
 [![](https://visitcount.itsvg.in/api?id=rudrakshi99&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 </br>
 

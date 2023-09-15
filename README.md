@@ -3,8 +3,12 @@
 <div align="center">
 <img alt="Screenshot 2023-08-14 134108" src="https://github.com/RashiS20/RashiS20/assets/104789491/3333192c-91d9-433a-9e31-94e8bbd9c390">
 </div>
-<!--
-**RashiS20/RashiS20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--<br>
+ 
+[![codechef badge](https://img.shields.io/badge/rudrakshi99-30302f?style=flat&logo=codechef)](https://www.codechef.com/users/rs2012))
+[![hackerrank badge](https://img.shields.io/badge/sonirudrakshi99-30302f?style=flat&logo=hackerrank)](https://www.hackerrank.com/2001640100210_2C)
+[![](https://visitcount.itsvg.in/api?id=rudrakshi99&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
+</br>
 
 Here are some ideas to get you started:
 

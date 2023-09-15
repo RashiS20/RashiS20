@@ -11,8 +11,7 @@ https://img.shields.io/badge/2001640100210_2C-black?logo=hackerrank
  -->
  [![codechef badge](https://img.shields.io/badge/rs2012-black?logo=codechef)](https://www.codechef.com/users/rs2012)
 [![hackerrank badge](https://img.shields.io/badge/2001640100210_2C-black?logo=hackerrank)](https://www.hackerrank.com/2001640100210_2C?hr_r=1)
-[![](https://visitcount.itsvg.in/api?id=rudrakshi99&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
-</br>
+[![](https://visitcount.itsvg.in/api?id=RashiS20&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)</br>
 
 Here are some ideas to get you started:
 

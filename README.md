@@ -4,9 +4,9 @@
 <img alt="Screenshot 2023-08-14 134108" src="https://github.com/RashiS20/RashiS20/assets/104789491/3333192c-91d9-433a-9e31-94e8bbd9c390">
 </div>
 <br>
- https://img.shields.io/badge/rs2012-30302f?style=flat&logo=codechef
-
-[![codechef badge](https://www.codechef.com/users/rs2012)](https://www.codechef.com/users/rs2012)
+<!--  https://img.shields.io/badge/rs2012-30302f?style=flat&logo=codechef
+ -->
+![Static Badge](https://img.shields.io/badge/rs2012-black?logo=codechef)
 [![hackerrank badge][(https://www.hackerrank.com/2001640100210_2C)](https://www.hackerrank.com/2001640100210_2C?hr_r=1)
 [![](https://visitcount.itsvg.in/api?id=rudrakshi99&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 </br>
